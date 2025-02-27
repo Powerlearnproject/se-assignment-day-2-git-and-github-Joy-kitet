@@ -15,7 +15,7 @@
 3. Community and Open Source: GitHub hosts a vast number of open-source projects, making it easy for developers to contribute to existing projects or start new ones.
 4. Documentation and Support: GitHub provides extensive documentation and a supportive community, making it easier for new users to learn and troubleshoot.
 
-     How version control help in maintaining project integrity
+        How version control help in maintaining project integrity
 1. Change Tracking: Version control tracks every change made to the codebase, allowing developers to see who made what changes and when.
 2. Code Reviews: The use of pull requests facilitates code reviews before changes are merged into the main branch
 3. Reverting Changes: If a bug is introduced or a feature does not work as intended, developers can revert to a previous version of the code.
