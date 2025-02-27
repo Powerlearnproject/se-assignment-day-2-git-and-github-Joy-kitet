@@ -139,8 +139,7 @@ Forking a repository on GitHub is a powerful feature that allows users to create
  2. Integration with Issues: Project boards can be directly linked to issues, which means that moving an issue from one column to another automatically updates its status. This integration makes project management more efficient.
  3. Team Collaboration:Project boards can facilitate team collaboration by allowing members to assign issues to themselves, set due dates, and comment on tasks. This keeps everyone on the same page and promotes accountability.
 
-
-       How they Enhance Collaborative Efforts
+           How they Enhance Collaborative Efforts
 1. Clear Communication:By using issues and project boards, teams can maintain clear communication regarding project status. 
 2. Progress Tracking: Project boards allow teams to visualize progress over time. 
 3. Documentation and History: Issues serve as a record of discussions and decisions made throughout the project.
