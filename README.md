@@ -84,6 +84,8 @@
  2. Multiple team members can work on different features or fixes simultaneously, speeding up the development process.
  3. Reduces Risk since changes are made in separate branches, the main branch remains stable
  4. The main branch remains stable while new features are developed in isolated branches, reducing the risk of introducing bugs into the production code.
+
+    
         Process of creating, using and merging branches
 1. To create a new branch type; git branch <branch-name>
 2. Switch to the new branch by running this command git checkout <branch-name>
