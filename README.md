@@ -2,7 +2,17 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18408521&assignment_repo_type=AssignmentRepo)
 # se-day-2-git-and-github
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
-
+       Fundamental concepts of version control
+1. Repositories:A repository is a storage space where all the files and their change history are kept.
+2. Commits: A commit is a snapshot of the project at a particular point in time.
+3. Merging: Merging combines changes from different branches.
+4. Branches:Branches allow developers to work on different features or fixes in isolation from the main codebase.
+5. Tags: Tags are used to mark specific points in history as important, often used for releases.
+        why GitHub is a popular tool for managing versions of code
+1. Collaboration: GitHub is designed for collaboration, allowing multiple developers to work on the same project simultaneously. It provides tools like pull requests for code reviews and discussions.
+2. Ease of Use: GitHub offers an intuitive web interface that simplifies managing repositories, viewing commit history, and navigating issues and pull requests.
+3. Community and Open Source: GitHub hosts a vast number of open-source projects, making it easy for developers to contribute to existing projects or start new ones.
+4. Documentation and Support: GitHub provides extensive documentation and a supportive community, making it easier for new users to learn and troubleshoot.
 
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
