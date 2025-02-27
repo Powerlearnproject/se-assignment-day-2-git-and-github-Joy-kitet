@@ -58,15 +58,14 @@
 -Fewer contributions from external users mean less management overhead regarding quality control and interaction.
 
     -Disadvantages of private repository
--Private repositories do not serve as a public portfolio, which may be a disadvantage for developers looking to showcase their skills.
--Without community input, projects may lack diverse perspectives and ideas that can enhance development.
--The lack of public visibility may mean fewer opportunities for external contributions and engagement.
-
-
-
+1. Private repositories do not serve as a public portfolio, which may be a disadvantage for developers looking to showcase their skills.
+2. Without community input, projects may lack diverse perspectives and ideas that can enhance development.
+3. The lack of public visibility may mean fewer opportunities for external contributions and engagement.
+   
 
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
-  -steps involved in making first commit
+-commits are is a saved snapshot of a project’s changes at a specific point in time.
+    -steps involved in making first commit
 1. install git in your pc
 2. configure your git environment with your name and email
 3. create a repository in your github account
@@ -76,6 +75,8 @@
 7. commit by writing git commit -m "first commit"
 8. link your local repository to the remote repository by writing git remote add origin https://github.com/username/let.git
 9. push the commit to github by writing git push -u origin master
+       
+   
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
 
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
