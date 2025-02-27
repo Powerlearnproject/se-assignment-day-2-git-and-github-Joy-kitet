@@ -14,8 +14,8 @@
 6. click on create repository button
 
    -important decision you need to make
-   Consider whether your project is meant for public use or if it contains sensitive information that should remain private.
-   Deciding whether to include a README or .gitignore file
+-Consider whether your project is meant for public use or if it contains sensitive information that should remain private.
+- Deciding whether to include a README or .gitignore file
    
 
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
