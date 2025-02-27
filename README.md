@@ -163,7 +163,7 @@ Using GitHub for version control can greatly enhance collaboration and project m
 Challenge: New users may create too many branches or fail to delete branches that are no longer needed, cluttering the repository.
 Strategy: Develop a branching strategy  and regularly clean up old branches. Use descriptive names to help identify the purpose of each branch.
 
-Strategies which can be employed to overcome them and ensure smooth collaboration
+        Strategies which can be employed to overcome them and ensure smooth collaboration
 1. Follow a Clear Branching Strategy-Use Git workflows like Git Flow or Feature Branching to organize development.
 2. Communicate Openly: Foster a culture of communication among team members. Use comments on issues and pull requests to discuss changes and provide feedback.
 3. Review Code Thoroughly: Implement a peer review process for pull requests. Encourage team members to review each other’s code, which can lead to better quality and knowledge sharing.
