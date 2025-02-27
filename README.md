@@ -99,12 +99,15 @@
 3. Discussion and Feedback – Developers can leave comments, highlight issues, and discuss changes directly within the pull request.
 4. Automated Checks – PRs can trigger automated tests and workflows, ensuring that changes don’t introduce bugs.
 
-
-  
-
-    Steps involved in creating and merging a pull request.
-1. Create a Branch-Before creating a pull request, developers typically create a new branch to work on their feature or bug fix
-2. 
+        Steps involved in creating and merging a pull request.
+1. Create a Branch-Before creating a pull request, you should typically create a new branch to work on their feature or bug fix
+2.  Make Changes and Commit-You should make their changes in the branch and commit them
+3.  Push the Branch to GitHub-Once changes are committed, the branch is pushed to the remote repository
+4.  Create a Pull Request by; Navigating to the repository on GitHub, Click on the "Pull requests" tab, Click the "New pull request" button, Select the base branch and compare it with the feature branch you just pushed.
+5.  Fill in the title and description of the pull request, explaining the changes and any relevant context.
+6.  Click "Create pull request"
+7.  Code Review-Team members are notified of the pull request and can begin the review process.
+8.  Merge the Pull Request-Once the pull request is approved, the author or a designated team member can merge the pull request into the base branch by clicking "Merge pull request" button.
 
 
 
