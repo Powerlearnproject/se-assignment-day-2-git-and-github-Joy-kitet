@@ -91,12 +91,20 @@
 2. Switch to the new branch by running this command git checkout <branch-name>
 3. Merge changes from one branch into another by running this command git checkout main, git merge <branch-name>
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
+-Pull requests allows developers to propose changes to a repository and request that they be reviewed and merged into the main branch. It is a crucial part of collaborative development, ensuring that code is reviewed, discussed, and improved before becoming part of the project.
 
-    role of pull requests
-1. Code Review: Pull requests provide a structured way for team members to review code changes before they are merged into the main branch. This helps ensure that code adheres to project standards, is free of bugs, and is well-documented.
-2. Collaboration:Pull Requests encourage discussion and collaboration among team members. Reviewers can leave comments, ask questions, and suggest changes directly on the lines of code, fostering a collaborative environment.
-3. Integration Testing: Many teams set up continuous integration (CI) systems to automatically run tests against the code in a pull request
-4. Documentation: The Pull Request itself serves as a documentation tool, providing context about what changes were made, why they were made, and how they were implemented.
+       How Pull Requests facilitate code review and collaboration
+1. Code Review Process – Pull Requests allow team members to review changes, suggest improvements, and ensure quality before merging.
+2. Conflict Resolution – PRs help identify and resolve merge conflicts before merging into the main branch.
+3. Discussion and Feedback – Developers can leave comments, highlight issues, and discuss changes directly within the pull request.
+4. Automated Checks – PRs can trigger automated tests and workflows, ensuring that changes don’t introduce bugs.
+
+
+  
+
+    Steps involved in creating and merging a pull request.
+1. Create a Branch-Before creating a pull request, developers typically create a new branch to work on their feature or bug fix
+2. 
 
 
 
