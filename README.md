@@ -108,9 +108,7 @@
 6.  Click "Create pull request"
 7.  Code Review-Team members are notified of the pull request and can begin the review process.
 8.  Merge the Pull Request-Once the pull request is approved, the author or a designated team member can merge the pull request into the base branch by clicking "Merge pull request" button.
-
-
-
+9.  Delete the Branch-After merging, it's good practice to delete the feature branch to keep the repository tidy.
 
 ## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
 
